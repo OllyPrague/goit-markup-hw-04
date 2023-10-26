@@ -179,6 +179,16 @@ background-color: #FFFFFF;
 .second{
     padding: 120px 0;
 }
+.main-svg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    margin-bottom: 8px; 
+}
+
 .main-list .main-text{
 color: var(--SLATE, #434455);
 font-family: "Roboto", sans-serif;
